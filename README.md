@@ -46,7 +46,7 @@ python create_tables.py
 Then, load the data
 
 ```bash
-python create_tables.py
+python etl.py
 ```
 
 ## Sample queries
